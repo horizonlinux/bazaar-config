@@ -60,7 +60,7 @@ sections:
 
   - title: "Browsers"
     subtitle: "Explore the web with your favorite browser"
-    rows: 3
+    rows: 4
     banner-text-halign: start
     banner-height: 100
     classes:
@@ -102,7 +102,7 @@ sections:
 
   - title: "Multimedia"
     subtitle: "Best apps to enjoy yourself"
-    rows: 2
+    rows: 3
     banner-text-halign: start
     banner-height: 100
     classes:
@@ -162,7 +162,7 @@ sections:
 
   - title: "Utilities"
     subtitle: "Useful apps for different needs"
-    rows: 2
+    rows: 3
     banner-text-halign: start
     banner-height: 100
     classes:
@@ -180,7 +180,7 @@ sections:
 
   - title: "Develop"
     subtitle: "and contribute to your favourite apps"
-    rows: 2
+    rows: 3
     banner-text-halign: start
     banner-height: 100
     classes:
