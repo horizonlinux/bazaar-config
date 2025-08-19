@@ -13,11 +13,13 @@ css: |
   .horizon-section banner-text {
      margin-top: 20px;
      margin-left: 20px;
-     color: #ffffff;
+     color: var(--accent-color);
+    filter: brightness(1);
      font-size: 10px;
   }
   .horizon-section title {
-     color: #ffffff;
+     color: var(--accent-color);
+    filter: brightness(1);
   }
   .horizon-section subtitle {
     color: var(--accent-color);
