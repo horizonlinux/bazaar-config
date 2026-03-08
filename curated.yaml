@@ -1,0 +1,94 @@
+rows:
+  - sections:
+    - expand-horizontally: true
+      category:
+        title:
+            en: "Must haves"
+            pl: "Niezbędniki"
+            cs: "Nezbytnosti"
+        subtitle:
+            en: "Enchance your experience"
+            pl: "Wzmocnij swoje doświadczenia"
+            cs: "Vylepšete svůj zážitek"
+        banner-text-halign: center
+        banner-text-valign: center
+        banner-text-label-xalign: 0.5
+        appids:
+          - org.libreoffice.LibreOffice
+          - org.kde.kontact
+          - org.kde.neochat
+          - io.github.pwr_solaar.solaar
+          - org.kde.kpat
+          - org.kde.kmines
+          - net.opentabletdriver.OpenTabletDriver
+          - io.github.DenysMb.Kontainer
+          - camp.nook.nookdesktop
+          - com.github.zocker_160.SyncThingy
+          - app.drey.Warp
+        enable-bulk-install: true
+
+  - sections:
+    - expand-horizontally: true
+      category:
+        title:
+            en: "Are you a white collar?"
+            pl: "Jesteś człowiekiem zza biurka?"
+            cs: "Jste bílý límeček?" # this is ass
+        subtitle:
+            en: "Benefit from good Office apps"
+            pl: "Czerp korzyści z dobrych apek biurowych"
+            cs: "Tyhle aplikace jsou celkem oheň hej"
+        banner-text-halign: center
+        banner-text-valign: center
+        banner-text-label-xalign: 0.5
+        appids:
+          - org.libreoffice.LibreOffice
+          - org.kde.kontact
+          - org.kde.skrooge
+          - com.slack.Slack
+          - org.kde.krdc
+          - org.kde.francis
+
+  - sections:
+    - expand-horizontally: true
+      category:
+        title:
+            en: "For true gamers"
+            pl: "Dla prawdziwych graczy"
+            cs: "Pro pravé hráče"
+        subtitle:
+            en: "Have some fun"
+            pl: "Miej odrobinę frajdy"
+            cs: "Protokol 3: Ochraň pilota 🫡"
+        banner-text-halign: center
+        banner-text-valign: center
+        banner-text-label-xalign: 0.5
+        appids:
+          - com.valvesoftware.Steam
+          - com.heroicgameslauncher.hgl
+          - io.github.Faugus.faugus-launcher
+          - com.vysp3r.ProtonPlus
+          - org.prismlauncher.PrismLauncher
+          - org.vinegarhq.Sober
+          - sh.ppy.osu
+          - org.kde.kmahjongg
+          - net.hhoney.rota
+          - org.xonotic.Xonotic
+
+  - sections:
+    - expand-horizontally: true
+      category:
+        title:
+            en: "Contribute"
+            pl: "Miej wkład"
+        subtitle:
+            en: "Tools to develop applications"
+            pl: "Narzędzia do tworzenia aplikacji"
+        banner-text-halign: center
+        banner-text-valign: center
+        banner-text-label-xalign: 0.5
+        appids:
+          - org.kde.kate
+          - org.kde.kommit
+          - org.gnome.Builder
+          - org.kde.lokalize

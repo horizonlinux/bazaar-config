@@ -1,0 +1,8 @@
+blocklists:
+  - block:
+    - io.github.kolunmi.Bazaar
+    - org.kde.dolphin
+    - org.kde.kfind
+    - org.kde.konsole
+    - org.kde.kwalletmanager
+    - org.kde.kwalletmanager5
